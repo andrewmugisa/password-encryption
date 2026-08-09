@@ -1,5 +1,3 @@
-package V1;
-
 /**
  * Student Name: Andrew Mugisa
  * Student Number:
